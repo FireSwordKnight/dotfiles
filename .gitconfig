@@ -1,0 +1,7 @@
+[user]
+	name = sleipnir2000
+	email = jionghua_chen@ucsb.edu
+[alias]
+	lol = log --oneline --graph --color
+[init]
+	defaultBranch = main
